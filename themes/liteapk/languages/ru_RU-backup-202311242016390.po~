@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MOD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-16 12:28+0000\n"
+"PO-Revision-Date: 2023-06-06 13:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: mod"
+
+#: single.php:304
+msgid "About this game"
+msgstr "Описание игры"
+
+#. Author of the theme
+msgid "admin"
+msgstr "admin"
+
+#: download.php:76 download.php:280 single-tip.php:21 single.php:61
+msgid "ago"
+msgstr "назад"
+
+#: archive.php:56
+msgid "Another Publishers"
+msgstr "Другие издатели"
+
+#: archive.php:77
+msgid "Another Tags"
+msgstr "Другие теги"
+
+#: single.php:96
+msgid "App Name"
+msgstr "Имя приложения"
+
+#: inc/breadcrumb.php:351
+msgid "Author"
+msgstr "Автор"
+
+#: download.php:345 inc/ajax.php:140
+msgid "click here"
+msgstr "кликните сюда"
+
+#: comments.php:81
+msgid "Comment"
+msgstr "Комментариев"
+
+#: comments.php:13
+msgid "Comments"
+msgstr "Комментариев"
+
+#. Description of the theme
+msgid "contact via liteapk.ru@gmail.com"
+msgstr "contact via liteapk.ru@gmail.com"
+
+#: download.php:65 download.php:67 download.php:125 download.php:268
+#: download.php:270 download.php:335 download.php:406 single.php:225
+#: single.php:298 single.php:326 inc/ajax.php:132 inc/breadcrumb.php:189
+msgid "Download"
+msgstr "Скачать"
+
+#: download.php:424
+msgid "Download FAQs"
+msgstr "Скачать FAQs"
+
+#: single.php:169
+msgid "Download on"
+msgstr "Скачать на"
+
+#: comments.php:88 single-tip.php:81
+msgid "Email"
+msgstr "Электронная почта"
+
+#: inc/breadcrumb.php:369
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: single.php:292
+msgid "Explore this article"
+msgstr "оглавление"
+
+#: single.php:53
+msgid "for Android"
+msgstr "на Андроид бесплатно"
+
+#: page-posts.php:51 single.php:116
+msgid "Genre"
+msgstr "Жанр"
+
+#: inc/breadcrumb.php:8
+msgid "Home"
+msgstr "ГЛАВНАЯ"
+
+#: single.php:255
+msgid "How to install?"
+msgstr "Как установить"
+
+#: download.php:343 inc/ajax.php:138
+msgid "If the download doesn't start in a few seconds,"
+msgstr "Если загрузка не начнется через несколько секунд,"
+
+#: download.php:309
+msgid ""
+"If the file extension is in formats like: APKs or XAPK, please use a third-"
+"party application to install it (we recommend the SAI - Split APKs Installer "
+"app because they are easy to use)."
+msgstr ""
+"Если расширение файла находится в таких форматах, как: APKS или XAPK, "
+"используйте стороннее приложение для его установки (мы рекомендуем "
+"приложение SAI - Split APKs Installer, потому что они просты в использовании)"
+"."
+
+#: download.php:533 single.php:445
+msgid "Latest"
+msgstr "Последний"
+
+#: category.php:35 single-tip.php:169 inc/breadcrumb.php:234
+msgid "Latest Updates"
+msgstr "Последние обновления"
+
+#: single.php:136
+#| msgid "Latest Version"
+msgid "Latest version"
+msgstr ""
+"Версия\n"
+
+#: comments.php:77
+msgid "Leave a Comment"
+msgstr "Оставьте комментарий"
+
+#: download.php:464
+msgid "Maybe You Like"
+msgstr "Может быть, вам нравится"
+
+#. Name of the theme
+#: single.php:146
+msgid "MOD"
+msgstr "Мод"
+
+#: single.php:248
+#| msgid "MOD information"
+msgid "MOD information?"
+msgstr "Возможности мода"
+
+#: download.php:215 download.php:496 single.php:378
+msgid "More from Publisher"
+msgstr "Еще от издателя"
+
+#: comments.php:85
+msgid "Name"
+msgstr "Имя"
+
+#: category.php:36 inc/breadcrumb.php:235
+msgid "New Releases"
+msgstr "Новые релизы"
+
+#: template-parts/content-none.php:10
+msgid "Not found."
+msgstr "Страница не найдена"
+
+#: template-parts/content-archive-post.php:28
+msgid "Original"
+msgstr "Оригинал"
+
+#: download.php:374
+msgid "Other available link(s)"
+msgstr "Другие доступные ссылки"
+
+#: inc/breadcrumb.php:357
+msgid "Page"
+msgstr "Страница"
+
+#: inc/ajax.php:15
+msgid "Please input your comment."
+msgstr "Пожалуйста, введите свой комментарий"
+
+#: inc/ajax.php:23
+msgid "Please input your email."
+msgstr "Пожалуйста, введите свой адрес электронной почты"
+
+#: inc/ajax.php:19
+msgid "Please input your name."
+msgstr "Пожалуйста, введите ваше имя"
+
+#: category.php:37 download.php:569 single-tip.php:192 single.php:480
+#: inc/breadcrumb.php:236
+msgid "Popular"
+msgstr "Популярный"
+
+#. Name of the template
+msgid "Posts"
+msgstr "Сообщения"
+
+#: page-posts.php:40 single.php:106
+msgid "Publisher"
+msgstr "Разработчик"
+
+#: download.php:183 single-tip.php:141 single.php:409
+msgid "Recommended for You"
+msgstr "Рекомендуется для вас"
+
+#: single-tip.php:107
+msgid "Related App"
+msgstr "Связанные приложения"
+
+#: comments.php:26 comments.php:57
+msgid "Reply"
+msgstr "Отвечать"
+
+#: single.php:159
+msgid "Require"
+msgstr "Требовать"
+
+#: single.php:231
+msgid "Screenshot"
+msgstr "Скриншоты"
+
+#: searchform.php:3
+msgid "Search"
+msgstr "Поиск"
+
+#: search.php:12
+msgid "Search Results for"
+msgstr "Результаты поиска для"
+
+#: inc/breadcrumb.php:363
+msgid "Search results for"
+msgstr "Результаты поиска для"
+
+#: comments.php:92
+msgid "Send Comment"
+msgstr "Отправить комментарий"
+
+#: single-tip.php:57
+msgid "Share On Facebook"
+msgstr "Поделиться через фейсбук"
+
+#: page-posts.php:62 single.php:126
+msgid "Size"
+msgstr "Размер"
+
+#: header.php:101
+msgid "Skip to content"
+msgstr "перейти к содержанию"
+
+#: inc/breadcrumb.php:316
+msgid "Tag"
+msgstr "Теги"
+
+#: page-tips.php:63 taxonomy-tip_cat.php:50
+msgid "Tags"
+msgstr "Теги"
+
+#: inc/ajax.php:40
+msgid "Thank you for your comment."
+msgstr "Спасибо за ваш комментарий"
+
+#. Name of the template
+msgid "Tips"
+msgstr "Кончик"
+
+#: category.php:38 inc/breadcrumb.php:237
+msgid "Trending"
+msgstr "В тренде"
+
+#: taxonomy-type.php:16
+msgid "Type"
+msgstr ""
+
+#: index.php:30 index.php:73 index.php:113 index.php:156 index.php:204
+#: index.php:244 index.php:284
+msgid "View all"
+msgstr "Посмотреть все"
+
+#: sidebar.php:23
+msgid "View More"
+msgstr "Более"
+
+#: single.php:196
+msgid "vote"
+msgid_plural "votes"
+msgstr[0] "голосование"
+msgstr[1] ""
+msgstr[2] ""
+
+#: single.php:282
+msgid "What's new"
+msgstr "Что нового"
+
+#: download.php:305
+msgid "You are downloading"
+msgstr "Вы скачиваете"
+
+#: inc/ajax.php:27
+msgid "Your email is incorrect."
+msgstr "Ваш адрес электронной почты неверен"
+
+#: download.php:318
+msgid "Your link is almost ready, please wait a few seconds..."
+msgstr "Ваша ссылка почти готова, подождите несколько секунд..."

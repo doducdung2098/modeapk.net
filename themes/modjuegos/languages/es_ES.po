@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: liteapk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-25 10:58+0000\n"
+"PO-Revision-Date: 2023-11-25 14:10+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.1\n"
+"X-Domain: mod"
+
+#: single.php:304
+msgid "About this game"
+msgstr "Acerca de este juego"
+
+#: download.php:76 download.php:280 single-tip.php:21 single.php:61
+msgid "ago"
+msgstr "atrás"
+
+#: archive.php:56
+msgid "Another Publishers"
+msgstr "Otros editores"
+
+#: archive.php:77
+msgid "Another Tags"
+msgstr "Otras etiquetas"
+
+#: single.php:96
+msgid "App Name"
+msgstr "Nombre"
+
+#: inc/breadcrumb.php:351
+msgid "Author"
+msgstr "Autor"
+
+#: download.php:345 inc/ajax.php:140
+msgid "click here"
+msgstr "haga clic aquí"
+
+#: comments.php:81
+msgid "Comment"
+msgstr "Comentario"
+
+#: comments.php:13
+msgid "Comments"
+msgstr "Comentarios"
+
+#. Description of the theme
+msgid "contact via liteapk.ru@gmail.com"
+msgstr "contacto a través de modjuegos.es@gmail.com"
+
+#: download.php:65 download.php:67 download.php:125 download.php:268
+#: download.php:270 download.php:335 download.php:406 single.php:225
+#: single.php:298 single.php:326 inc/ajax.php:132 inc/breadcrumb.php:189
+msgid "Download"
+msgstr "Descargar"
+
+#: download.php:424
+msgid "Download FAQs"
+msgstr "Descargar preguntas frecuentes"
+
+#: single.php:169
+msgid "Download on"
+msgstr "Descargar en"
+
+#: comments.php:88 single-tip.php:81
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: inc/breadcrumb.php:369
+msgid "Error 404"
+msgstr "error 404"
+
+#: single.php:292
+msgid "Explore this article"
+msgstr "Explora este artículo"
+
+#: single.php:53
+msgid "for Android"
+msgstr "para Android"
+
+#: page-posts.php:51 single.php:116
+msgid "Genre"
+msgstr "Género"
+
+#: inc/breadcrumb.php:8
+msgid "Home"
+msgstr " Página inicial"
+
+#: single.php:255
+msgid "How to install?"
+msgstr "¿Cómo instalar?"
+
+#. Author URI of the theme
+msgid "https://liteapk.ru"
+msgstr "https://modjuegos.es"
+
+#: download.php:343 inc/ajax.php:138
+msgid "If the download doesn't start in a few seconds,"
+msgstr "Si la descarga no comienza en unos segundos,"
+
+#: download.php:309
+msgid ""
+"If the file extension is in formats like: APKs or XAPK, please use a third-"
+"party application to install it (we recommend the SAI - Split APKs Installer "
+"app because they are easy to use)."
+msgstr ""
+"Si la extensión del archivo está en formatos como: APK o XAPK, utilice una "
+"aplicación de terceros para instalarla (recomendamos la aplicación SAI - "
+"Split APKs Installer porque son fáciles de usar)."
+
+#: download.php:533
+msgid "Latest"
+msgstr "El último"
+
+#: category.php:35 single-tip.php:169 inc/breadcrumb.php:234
+msgid "Latest Updates"
+msgstr "Últimas actualizaciones"
+
+#: single.php:136
+msgid "Latest version"
+msgstr "Versión"
+
+#: comments.php:77
+msgid "Leave a Comment"
+msgstr "Deja un comentario"
+
+#. Name of the theme
+#. Author of the theme
+msgid "liteapk"
+msgstr "modjuegos"
+
+#: download.php:464
+msgid "Maybe You Like"
+msgstr "tal vez te guste"
+
+#: single.php:146
+msgid "MOD"
+msgstr "MOD"
+
+#: single.php:248
+msgid "MOD information?"
+msgstr "¿Información del MOD?"
+
+#: download.php:215 download.php:496 single.php:378
+msgid "More from Publisher"
+msgstr "Más del editor"
+
+#: comments.php:85
+msgid "Name"
+msgstr "Nombre"
+
+#: category.php:36 inc/breadcrumb.php:235
+msgid "New Releases"
+msgstr "Nuevos lanzamientos"
+
+#: template-parts/content-none.php:10
+msgid "Not found."
+msgstr "Extraviado."
+
+#: template-parts/content-archive-post.php:28
+msgid "Original"
+msgstr "Original"
+
+#: download.php:374
+msgid "Other available link(s)"
+msgstr "Otros enlaces disponibles"
+
+#: inc/breadcrumb.php:357
+msgid "Page"
+msgstr "Página"
+
+#: inc/ajax.php:15
+msgid "Please input your comment."
+msgstr "Por favor ingrese su comentario."
+
+#: inc/ajax.php:23
+msgid "Please input your email."
+msgstr "Por favor ingrese su correo electrónico."
+
+#: inc/ajax.php:19
+msgid "Please input your name."
+msgstr "Por favor ingrese su nombre."
+
+#: category.php:37 download.php:569 single-tip.php:192 single.php:480
+#: inc/breadcrumb.php:236
+msgid "Popular"
+msgstr "Popular"
+
+#. Name of the template
+msgid "Posts"
+msgstr "Publicaciones"
+
+#: page-posts.php:40 single.php:106
+msgid "Publisher"
+msgstr "Editor"
+
+#: download.php:183 single-tip.php:141 single.php:409
+msgid "Recommended for You"
+msgstr "Recomendado para ti"
+
+#: single-tip.php:107
+msgid "Related App"
+msgstr "Aplicación relacionada"
+
+#: comments.php:26 comments.php:57
+msgid "Reply"
+msgstr "Responder"
+
+#: single.php:159
+msgid "Require"
+msgstr "Requerir"
+
+#: single.php:231
+msgid "Screenshot"
+msgstr "Captura de pantalla"
+
+#: searchform.php:3
+msgid "Search"
+msgstr "Buscar"
+
+#: search.php:12
+msgid "Search Results for"
+msgstr "Resultados de la búsqueda para"
+
+#: inc/breadcrumb.php:363
+msgid "Search results for"
+msgstr "Resultados de la búsqueda para"
+
+#: comments.php:92
+msgid "Send Comment"
+msgstr "Enviar comentario"
+
+#: single-tip.php:57
+msgid "Share On Facebook"
+msgstr "Compartir en Facebook"
+
+#: page-posts.php:62 single.php:126
+msgid "Size"
+msgstr "Tamaño"
+
+#: header.php:110
+msgid "Skip to content"
+msgstr "saltar al contenido"
+
+#: inc/breadcrumb.php:316
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: page-tips.php:63 taxonomy-tip_cat.php:50
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: inc/ajax.php:40
+msgid "Thank you for your comment."
+msgstr "Gracias por tu comentario."
+
+#. Name of the template
+msgid "Tips"
+msgstr "Consejos"
+
+#: category.php:38 inc/breadcrumb.php:237
+msgid "Trending"
+msgstr "Tendencias"
+
+#: taxonomy-type.php:16
+msgid "Type"
+msgstr "Tipo"
+
+#: index.php:30 index.php:73 index.php:113 index.php:156 index.php:204
+#: index.php:244 index.php:284
+msgid "View all"
+msgstr "Ver todo"
+
+#: sidebar.php:23
+msgid "View More"
+msgstr "Ver más"
+
+#: single.php:196
+msgid "vote"
+msgid_plural "votes"
+msgstr[0] "votar"
+msgstr[1] "votos"
+
+#: single.php:282
+msgid "What's new"
+msgstr "Qué hay de nuevo"
+
+#: download.php:305
+msgid "You are downloading"
+msgstr "Estás descargando"
+
+#: inc/ajax.php:27
+msgid "Your email is incorrect."
+msgstr "Tu correo electrónico es incorrecto."
+
+#: download.php:318
+msgid "Your link is almost ready, please wait a few seconds..."
+msgstr "Tu enlace está casi listo, espera unos segundos..."
